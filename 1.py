@@ -3,10 +3,6 @@ b = 1
 c = 3
 
 
-perfect
+perfect 
 
-<<<<<<< HEAD
-develop
-=======
-master 
->>>>>>> master
+master
