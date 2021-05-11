@@ -5,8 +5,4 @@ c = 3
 
 perfect
 
-<<<<<<< HEAD
-develop
-=======
-master 
->>>>>>> master
+-develop
