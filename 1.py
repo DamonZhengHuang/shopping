@@ -21,3 +21,4 @@ master  V2
 
 
 github
+git pull & git fetch & git merge
